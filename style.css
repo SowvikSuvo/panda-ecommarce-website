@@ -177,7 +177,7 @@ nav {
     padding: 25px 10px;
     width: 360px;
     height: 496px;
-    box-shadow: 8px 8px 20px black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.244);
 }
 
 .shoe-card img {
