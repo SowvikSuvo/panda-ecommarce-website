@@ -41,9 +41,7 @@
     color: rgb(31, 31, 31);
     font-size: 36px;
     font-weight: 700;
-
 }
-
 
 /* customs css */
 nav {
@@ -204,4 +202,61 @@ nav {
 
 }
 
+/* contact-us-footer-section */
 
+.contact-us-parent {
+    background: rgb(255, 242, 241);
+    text-align: center;
+    padding: 35px 20px;
+    border-radius: 15px;
+    margin-top: 71px;
+    margin-bottom: 75px;
+    height: 455px;
+}
+
+.total {
+    padding: 80px;
+}
+
+.total h2 {
+    color: rgb(31, 31, 31);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+}
+
+.total p {
+    color: rgb(112, 112, 112);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}
+
+.contact-input-btn-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-input-btn-parent input {
+    border: none;
+    padding: 15px 152px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.contact-input-btn-parent .Panda-btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.contact-input-btn-parent input {
+    color: rgb(204, 204, 204);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+   
+}
+   
